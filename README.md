@@ -6,6 +6,7 @@ My background is in multi-physical computational fluid dynamics and optimization
 
 ## CliMA
  - [ClimaCore.jl](https://github.com/CliMA/ClimaCore.jl)
+ - [MultiBroadcastFusion.jl](https://github.com/CliMA/MultiBroadcastFusion.jl)
  - [ClimaAtmos.jl](https://github.com/CliMA/ClimaAtmos.jl)
  - [ClimaTimeSteppers.jl](https://github.com/CliMA/ClimaTimeSteppers.jl)
  - [SurfaceFluxes.jl](https://github.com/CliMA/SurfaceFluxes.jl)
