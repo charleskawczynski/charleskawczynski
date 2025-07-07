@@ -19,7 +19,6 @@ My background is in multi-physical computational fluid dynamics and optimization
  - [CloudMicrophysics.jl](https://github.com/CliMA/CloudMicrophysics.jl)
  - [AtmosphericProfilesLibrary.jl](https://github.com/CliMA/AtmosphericProfilesLibrary.jl)
  - [Insolation.jl](https://github.com/CliMA/Insolation.jl)
- - [NCRegressionTests.jl](https://github.com/CliMA/NCRegressionTests.jl)
  - [NonlinearSolvers.jl](https://github.com/CliMA/NonlinearSolvers.jl)
  - [CGDycore.jl](https://github.com/CliMA/CGDycore.jl)
  - [SingleColumnModels.jl](https://github.com/CliMA/SingleColumnModels.jl)
